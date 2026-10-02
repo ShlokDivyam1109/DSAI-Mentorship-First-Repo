@@ -1,5 +1,5 @@
 def check(password):
-    pass
+    return True
 
 def secret_read():
     with open("password.txt", "r") as file:
